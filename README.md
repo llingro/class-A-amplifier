@@ -1,3 +1,4 @@
+
 <img width="742" height="380" alt="Screenshot 2026-06-29 122156" src="https://github.com/user-attachments/assets/489ab877-3bdd-4eba-b8c6-396f86e1764c" />
 
 兩級主動偏置 Class A 放大器與主動恆流源負載設計
@@ -124,3 +125,6 @@ V3.0：修正回授方向至輸入基極，成功隔離交直流，但 $R_5$ ($3
 V4.0：將 $R_5$ 改為 $1\text{ k}\Omega$，電流降至 $6\text{ mA}$，直流點救回，但大訊號時負半週仍有截止切頂。
 
 V5.0 (最終版)：引入 $Q_5$ 主動式恆流源負載，電流完美控制在 $1.01\text{ mA}$，同時兼顧省電與極致的對稱放大波形。
+
+simulation result:
+<img width="1918" height="876" alt="Screenshot 2026-06-29 121143" src="https://github.com/user-attachments/assets/42c55f34-e639-492b-885b-9e538f730863" />
