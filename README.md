@@ -126,5 +126,6 @@ V4.0：將 $R_5$ 改為 $1\text{ k}\Omega$，電流降至 $6\text{ mA}$，直流
 
 V5.0 (最終版)：引入 $Q_5$ 主動式恆流源負載，電流完美控制在 $1.01\text{ mA}$，同時兼顧省電與極致的對稱放大波形。
 
+
 simulation result:
-<img width="1918" height="876" alt="Screenshot 2026-06-29 121143" src="https://github.com/user-attachments/assets/42c55f34-e639-492b-885b-9e538f730863" />
+<img width="942" height="827" alt="Screenshot 2026-06-29 171950" src="https://github.com/user-attachments/assets/d72f48ef-cd39-488f-8217-6d779720f4c7" />
