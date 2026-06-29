@@ -1,3 +1,5 @@
+<img width="742" height="380" alt="Screenshot 2026-06-29 122156" src="https://github.com/user-attachments/assets/489ab877-3bdd-4eba-b8c6-396f86e1764c" />
+
 兩級主動偏置 Class A 放大器與主動恆流源負載設計
 
 Two-Stage Active-Biased Class A Amplifier with Active Current Sink & Negative Feedback
@@ -19,6 +21,7 @@ Two-Stage Active-Biased Class A Amplifier with Active Current Sink & Negative Fe
 二、 電路架構與設計特點 (Circuit Topology)
 
 本電路融合了多個經典類比集成電路（Analog IC）的設計精髓：
+
 
                     [ 12V Supply ]
                          │
